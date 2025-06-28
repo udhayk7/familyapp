@@ -151,7 +151,7 @@ export default function DashboardPage() {
                   <Pill className="w-5 h-5 text-white" />
                 </div>
                 <div className="flex-1">
-                  <h3 className="font-medium text-gray-900">Smart Medications</h3>
+                  <h3 className="font-medium text-gray-900">CareLoop Medications</h3>
                   <p className="text-gray-600 text-xs">AI-powered reminders & tracking</p>
                 </div>
               </div>

@@ -1,4 +1,4 @@
-# Smart Medication Assistant - Complete System Architecture
+# CareLoop - Complete System Architecture
 
 ## 🏗️ **System Overview**
 A comprehensive AI-powered medication management platform with three interconnected modules:

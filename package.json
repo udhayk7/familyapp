@@ -1,8 +1,8 @@
 {
-  "name": "edennextjs",
+  "name": "careloop",
   "version": "0.1.0",
   "private": true,
-  "description": "Senior-friendly medication reminder and voice assistant app",
+  "description": "CareLoop - Family medication management and health monitoring platform for seniors",
   "scripts": {
     "dev": "next dev --turbopack",
     "dev:senior": "next dev --turbopack --port 3001",

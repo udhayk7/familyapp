@@ -1,4 +1,4 @@
-# Smart Medication Assistant - Implementation Roadmap
+# CareLoop - Implementation Roadmap
 
 ## 🎯 **Your Requirements Breakdown**
 

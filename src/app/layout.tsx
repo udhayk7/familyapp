@@ -7,8 +7,8 @@ import { AuthProvider } from "@/context/AuthContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Eden Senior Care",
-  description: "Simple medication reminders and voice assistant for seniors",
+  title: "CareLoop - Family Health Care",
+  description: "CareLoop connects families with smart medication management and health monitoring for seniors",
 };
 
 export default function RootLayout({

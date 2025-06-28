@@ -107,7 +107,7 @@ export default function AuthPage() {
                 <Pill className="h-5 w-5 text-green-600" />
               </div>
               <div>
-                <p className="text-sm font-medium text-gray-900">Smart Medication Management</p>
+                <p className="text-sm font-medium text-gray-900">CareLoop Health Management</p>
                 <p className="text-xs text-gray-600">Automated reminders and dosage tracking</p>
               </div>
             </div>

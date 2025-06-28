@@ -1,10 +1,10 @@
-# Smart Medication Assistant - Family Caregiver Portal
+# CareLoop - Family Health Care Platform
 
-A comprehensive medication reminder and monitoring system designed for senior citizens, with real-time family caregiver oversight and AI-powered verification features.
+A comprehensive medication reminder and health monitoring system designed for senior citizens, with real-time family caregiver oversight and AI-powered features.
 
 ## 🎯 Project Overview
 
-This is **Module 1** of a 3-module healthcare platform built for a hackathon. The Family/Caregiver Web App enables remote medication management, real-time monitoring, and emergency alerting for senior family members.
+This is **Module 1** of a 3-module healthcare platform built for a hackathon. CareLoop's Family/Caregiver Web App enables remote medication management, real-time monitoring, and emergency alerting for senior family members.
 
 ### 🏗️ Complete System Architecture
 
@@ -51,7 +51,7 @@ This is **Module 1** of a 3-module healthcare platform built for a hackathon. Th
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Next.js 14** (App Router)
+- **Next.js 15** (App Router)
 - **TypeScript** for type safety
 - **Tailwind CSS** for styling
 - **Lucide React** for icons
@@ -78,8 +78,8 @@ This is **Module 1** of a 3-module healthcare platform built for a hackathon. Th
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd smart-medication-assistant
+   git clone https://github.com/udhayk7/familyapp.git
+   cd familyapp
    ```
 
 2. **Install dependencies**
@@ -200,28 +200,23 @@ messages (id, sender_id, receiver_id, content, message_type, is_read, created_at
 
 ## 🤝 Contributing
 
-This is a hackathon project built for rapid development and demonstration. The codebase is structured for:
-
-- **Modular Development** with clear separation of concerns
-- **Type Safety** throughout the application
-- **Scalable Architecture** ready for production deployment
-- **Integration Points** prepared for AI/ML features
+We welcome contributions to CareLoop! Please feel free to submit issues, feature requests, or pull requests.
 
 ## 📄 License
 
-This project is part of a hackathon submission and is intended for demonstration purposes.
+This project is licensed under the MIT License.
 
-## 📞 Support
+## 🙏 Acknowledgments
 
-For questions about this family caregiver portal or the broader Smart Medication Assistant platform, please refer to the documentation or contact the development team.
+Built with love for families caring for their senior loved ones. CareLoop bridges the gap between technology and compassionate care.
 
 ---
 
-**Built with ❤️ for senior health and family peace of mind.**
+**CareLoop** - *Connecting families through smart health care*
 
-# Eden Senior App - Phase 3
+# CareLoop Senior App - Phase 3
 
-A senior-friendly mobile application with voice assistance and medication reminders that works in conjunction with the Eden family dashboard.
+A senior-friendly mobile application with voice assistance and medication reminders that works in conjunction with the CareLoop family dashboard.
 
 ## Features
 
